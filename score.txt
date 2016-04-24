@@ -1,0 +1,6 @@
+i   -50
+sim   100
+ssi   0
+rrem   -50
+rem   -50
+simm   100

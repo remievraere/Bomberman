@@ -3,10 +3,14 @@
 Game Design and Implementation
 
 15129002 - Clovis Masson
+
 15129003 - Kevin Fandi
+
 15129005 - Simon Bulcke
+
 15120906 - Medhi Kolai
-15129008 - Rémi EVRAERE
+
+15129008 - Rémi Evraere
 
 # Bomberman
 
